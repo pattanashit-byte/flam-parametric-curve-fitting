@@ -1,5 +1,4 @@
-FLAM SDE/R&D Internship - Parametric Curve Fitting
-============================================================
+
 
 Theta (degrees) : 28.0093184370
 Theta (radians) : 0.4888548280
