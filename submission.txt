@@ -1,0 +1,14 @@
+FLAM SDE/R&D Internship - Parametric Curve Fitting
+============================================================
+
+Theta (degrees) : 28.0093184370
+Theta (radians) : 0.4888548280
+M               : 0.0211688778
+X               : 63.3905353915
+
+Total L1        : 69.5945480629
+Mean L1         : 0.2319818269
+Maximum L1      : 0.7475529551
+
+Desmos / LaTeX equation:
+\left(t*\cos(0.488855)-e^{0.021169\left|t\right|}\cdot\sin(0.3t)\sin(0.488855)+63.390535,42+t*\sin(0.488855)+e^{0.021169\left|t\right|}\cdot\sin(0.3t)\cos(0.488855)\right)
